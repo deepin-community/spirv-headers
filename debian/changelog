@@ -1,3 +1,33 @@
+spirv-headers (1.6.1+1.4.309.0-1) unstable; urgency=medium
+
+  * New upstream release. (Closes: #1100751)
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Tue, 18 Mar 2025 14:31:30 +0200
+
+spirv-headers (1.6.1+1.4.304.0-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Thu, 16 Jan 2025 15:20:47 +0200
+
+spirv-headers (1.6.1+1.3.296.0-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Wed, 16 Oct 2024 13:21:51 +0300
+
+spirv-headers (1.6.1+1.3.290.0-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Thu, 29 Aug 2024 11:16:56 +0300
+
+spirv-headers (1.6.1+1.3.283.0-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Thu, 30 May 2024 10:09:52 +0300
+
 spirv-headers (1.6.1+1.3.280.0-1) unstable; urgency=medium
 
   * New upstream release.
