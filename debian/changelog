@@ -1,3 +1,46 @@
+spirv-headers (1.6.1+1.4.341.0-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Fri, 06 Feb 2026 10:55:40 +0200
+
+spirv-headers (1.6.1+1.4.335.0-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Thu, 18 Dec 2025 11:30:00 +0200
+
+spirv-headers (1.6.1+1.4.328.1-1) unstable; urgency=medium
+
+  * New upstream release.
+  * patches: Dropped, upstream.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Tue, 28 Oct 2025 12:35:55 +0200
+
+spirv-headers (1.6.1+1.4.321.0-2) unstable; urgency=medium
+
+  * patches: Added a patch for spirv-llvm-translator. (Closes: #1111123)
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Fri, 22 Aug 2025 11:51:52 +0300
+
+spirv-headers (1.6.1+1.4.321.0-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Mon, 11 Aug 2025 06:41:27 +0300
+
+spirv-headers (1.6.1+1.4.309.0-1) unstable; urgency=medium
+
+  * New upstream release. (Closes: #1100751)
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Tue, 18 Mar 2025 14:31:30 +0200
+
+spirv-headers (1.6.1+1.4.304.0-1) unstable; urgency=medium
+
+  * New upstream release.
+
+ -- Timo Aaltonen <tjaalton@debian.org>  Thu, 16 Jan 2025 15:20:47 +0200
+
 spirv-headers (1.6.1+1.3.296.0-1) unstable; urgency=medium
 
   * New upstream release.
